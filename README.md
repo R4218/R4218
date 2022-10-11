@@ -16,7 +16,7 @@ Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wa
 
 <br/>
 
-## My Skill Set
+## 💼 My Skill Set
 
 <div align="center">  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
@@ -44,7 +44,26 @@ Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wa
 
 <br/>
 
-## Connect with me
+<!-- ## 📝 Latest Blog Posts -->
+
+<!-- <br> -->
+
+<!-- BLOG-POST-LIST:START -->
+<!-- - [title](https://razibur.com) -->
+<!-- BLOG-POST-LIST:END -->
+
+<br>
+
+## 📌 Pinned Repositories
+
+<a href="https://github.com/R4218/strapi-e-commerce-application-with-nextjs-and-tailwind-css">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=R4218&repo=strapi-e-commerce-application-with-nextjs-and-tailwind-css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<br>
+<br>
+
+## 🙌 Connect with me
 
 <div align="center">
 
@@ -61,7 +80,7 @@ Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wa
 
 <br/>
 
-## Github Stats
+## 📈 Github Stats
 
 <div align="center" >
   
