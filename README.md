@@ -1,10 +1,12 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://github.com/R4218/R4218/blob/main/banner.jpg" align="center" style="width: 100%" />
 </div>  
   
 
 ### <div align="center">I'm a self-taught developer, who has been coding for the last 6 years👨‍💻 I am working in Front-end web application development technologies along with CMS and SAAS platforms 🚀</div>  
   
+- 🔭 I’m currently working on [SJ Innovation LLC](https://career.sjinnovation.com)
+
 
 - 🌱 I’m currently learning JAM Stack Development  
   
@@ -65,13 +67,13 @@
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="100%">
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=R4218&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R4218&hide_border=true&layout=compact" align="left" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R4218&hide_border=true&layout=compact" align="center" />
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="100%">
 
 
 
@@ -83,19 +85,7 @@
 
 <br/>  
 
-  
-
-<br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=R4218&&style=flat-square" align="center" />
 </div>  
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
